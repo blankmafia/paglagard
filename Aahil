@@ -56,7 +56,7 @@ logo = """
 \033[1;96m         ____) | |_) |  __/  __/ (_| | |
 \033[1;96m        |_____/| .__/ \___|\___|\__,_|_|
 \033[1;96m               | |                      
-\033[1;96m               |_|   Aahil Updated 0.3                   
+\033[1;96m               |_|   paglagard Updated 0.3                   
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -104,8 +104,8 @@ jalan("   \033[1;93m Welcome to Aahil Creations ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "paglagard"
+CorrectPassword = "box 2"
 
 
 loop = 'true'
